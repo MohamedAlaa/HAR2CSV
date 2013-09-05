@@ -1,0 +1,14 @@
+file,http://jquery.com/jquery-wp-content/themes/jquery.com/style.css
+transfer size:
+normal:,3447
+gzip:,0
+"
+"
+timing:
+blocked:,-1
+dns:,-1
+connect:,-1
+send:,0
+wait:,80
+receive:,68
+ssl:,-1
